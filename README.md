@@ -22,6 +22,9 @@ Apache POI是一个用于操作Microsoft Office格式文件的Java库，包括Ex
 
 总的来说，通过使用Apache POI库来操作Excel文件，新增了一个saveToExcel函数来保存选课结果，同时使用Java的文件输入输出流和对象序列化方法，将学生对象保存到文件中，方便在程序重新启动后从文件中读取之前保存的学生对象，进行后续的操作。
 ## 四、流程图
+![saveToExcel函数流程图](https://i.imgur.com/7v4z5zG.jpg)
+
+
 ## 五、系统运行截图
 ## 六、感想与体会
 
